@@ -1,2 +1,3 @@
-# ClouDROID-Auto-Skill-for-Artix-Game-Launcher
-ClouDROID Auto Skill automates your skill combos in AdventureQuest Worlds with smooth timing and customizable sequences. Built exclusively for Artix Game Launcher, it ensures efficient and consistent gameplay with minimal effort.
+ClouDROID Auto Skill is a lightweight and efficient automation tool designed to simplify combat in AdventureQuest Worlds. It intelligently executes your skill rotations based on your configured combo, ensuring smooth, consistent, and optimized gameplay without manual input.
+
+Built for precision and performance, ClouDROID allows you to customize skill sequences, adjust delays, and manage cooldown timing to match any class or playstyle. Whether you're farming, soloing bosses, or grinding levels, it keeps your actions perfectly timed and uninterrupted.
